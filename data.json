@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Diabetes",
+        "sintomas": ["sed excesiva", "orinar con frecuencia", "fatiga", "visión borrosa", "pérdida de peso inexplicable"],
+        "causas": ["genética", "obesidad", "falta de ejercicio"],
+        "tratamiento": ["dieta saludable", "ejercicio", "medicación"]
+    },
+    {
+        "nombre": "Hipertensión",
+        "sintomas": ["dolor de cabeza", "mareo", "visión borrosa", "fatiga", "dificultad para respirar"],
+        "causas": ["estrés", "obesidad", "sal en exceso"],
+        "tratamiento": ["dieta baja en sal", "ejercicio", "medicación"]
+    },
+    {
+        "nombre": "Gripe",
+        "sintomas": ["fiebre", "tos", "dolor de garganta", "congestión nasal", "dolor muscular", "fatiga"],
+        "causas": ["virus de la influenza", "contacto con personas infectadas"],
+        "tratamiento": ["descanso", "hidratación", "medicamentos para síntomas"]
+    },
+    {
+        "nombre": "Resfriado común",
+        "sintomas": ["tos", "congestión nasal", "estornudos", "dolor de garganta", "fatiga leve"],
+        "causas": ["virus", "cambios de temperatura", "sistema inmune débil"],
+        "tratamiento": ["descanso", "hidratación", "medicamentos para síntomas"]
+    },
+    {
+        "nombre": "COVID-19",
+        "sintomas": ["fiebre", "tos seca", "fatiga", "pérdida del gusto o del olfato", "dificultad para respirar"],
+        "causas": ["virus SARS-CoV-2", "contacto con personas infectadas"],
+        "tratamiento": ["aislamiento", "descanso", "hidratación", "atención médica si es necesario"]
+    },
+    {
+        "nombre": "Bronquitis",
+        "sintomas": ["tos con flema", "dificultad para respirar", "fatiga", "fiebre leve", "dolor en el pecho"],
+        "causas": ["infección viral o bacteriana", "fumar", "contaminación"],
+        "tratamiento": ["descanso", "hidratación", "medicamentos recetados"]
+    }
+]
